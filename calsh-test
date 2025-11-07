@@ -39,5 +39,3 @@ overwrite_original_rules=true
 ;emoji与节点优化设置
 add_emoji=true
 emoji=true
-sort=true
-new_name=true
